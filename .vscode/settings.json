@@ -1,0 +1,27 @@
+{
+  "window.zoomLevel": 2,
+  "prettier.jsxSingleQuote": true,
+  "yaml.format.singleQuote": true,
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "explorer.compactFolders": false,
+  "editor.bracketPairColorization.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "compile-hero.generate-minified-javascript-only": false,
+  "files.autoSave": "afterDelay",
+  "editor.columnSelection": false
+}
+
+// {
+//   "prettier.jsxSingleQuote": true,
+//   "yaml.format.singleQuote": true,
+//   "prettier.singleQuote": true,
+//   "editor.defaultFormatter": "esbenp.prettier-vscode",
+//   "[javascript]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+//   },
+//   "editor.bracketPairColorization.enabled": true
+// }
